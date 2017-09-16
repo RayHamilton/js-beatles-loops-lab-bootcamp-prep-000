@@ -5,3 +5,12 @@ function theBeatlesPlay(mus,inst){
   }
   return arrMusInst
 }
+
+function johnLennonFacts(arr){
+  var count =0
+  while (count < arr.length){
+    arr[i] = arr[i]+"!!!"
+    count++
+  }
+  return arr
+}
