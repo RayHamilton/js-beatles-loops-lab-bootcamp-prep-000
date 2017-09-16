@@ -16,11 +16,11 @@ function johnLennonFacts(arr){
 }
 
 function iLoveTheBeatles(num){
-  var arr = []
+  var arrWall = []
   do {
-    arr.push("I love the Beatles!")
+    arrWall.push("I love the Beatles!")
     num++
-  } 
+  }
   while num < 15
-  return arr
+  return arrWall
 }
