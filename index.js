@@ -9,7 +9,7 @@ function theBeatlesPlay(mus,inst){
 function johnLennonFacts(arr){
   var count =0
   while (count < arr.length){
-    arr[i] = arr[i]+"!!!"
+    arr[count] = arr[count]+"!!!"
     count++
   }
   return arr
